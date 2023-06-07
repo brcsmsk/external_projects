@@ -9,13 +9,13 @@ This project contains a Python script that detects site outages based on provide
 1. Clone the repository:
 
   ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/brcsmsk/krakenflex
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd krakenflex-data-case
+   cd krakenflex
    ```
 3. Set up a virtual environment for the project
 
